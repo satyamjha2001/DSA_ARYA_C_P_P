@@ -42,7 +42,7 @@ int main()
         +---+-----+	 +----+----+	 +----+----+
 
     # represents any random value.
-    Data is random because we haven�t assigned
+    Data is random because we haven't assigned
     anything yet */
 
     head->data = 1;      // assign data in first node
